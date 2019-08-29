@@ -1,0 +1,21 @@
+.post-list {
+  margin: 50px auto;
+}
+.post-list__label {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+.post-list__buttons-container {
+  display: flex;
+  justify-content: center;
+}
+.post-list__buttons-container button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  height: 27px;
+  width: 90px;
+  margin: 25px;
+}

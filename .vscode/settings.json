@@ -1,0 +1,12 @@
+{
+  "prettier.eslintIntegration": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.options": {
+    "configFile": "/home/user/Desktop/projects/react-sandbox/.eslintrc.json"
+  },
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+}
